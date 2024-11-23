@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655930535957",
+    "project_id": "gestion-de-contrasenas",
+    "storage_bucket": "gestion-de-contrasenas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655930535957:android:862fb7262b284d473a9e1c",
+        "android_client_info": {
+          "package_name": "com.example.gestionpass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSO9QAqrFo5QHAAsupL37jLCzCLxx7OSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
